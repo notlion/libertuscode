@@ -48,7 +48,7 @@ Large portions of lc_mini_math is borrowed from GLM:
     #define LC_DEPTH_CLIP_SPACE         LC_DEPTH_ZERO_TO_ONE
 #endif
 
-#if ! defined( MINIMATH_NAMESPACE )
+#if ! defined(LC_MINIMATH_NAMESPACE)
     #define LC_MINIMATH_NAMESPACE lc
 #endif 
 
